@@ -15,6 +15,4 @@ let msg = `${constante1} ${constante2} ${constante3} ${constante4} ${constante5}
 
 msg += `${variavel1} ${variavel2} ${variavel3} ${variavel4} ${variavel5}`;
 
-
-
 console.log(msg);
